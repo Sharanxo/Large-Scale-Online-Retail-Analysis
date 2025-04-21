@@ -26,6 +26,10 @@ The dataset consists of **5 million+ online retail transactions**, typically con
 - UnitPrice
 - CustomerID
 - Country
+
+```bash
+!wget https://archive.ics.uci.edu/static/public/352/online+retail.zip
+```
 ---
 
 ## 🔧 Requirements
